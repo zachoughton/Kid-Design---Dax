@@ -41,4 +41,30 @@ Some mockup examples of user's that would the prospective outline for us.
 
 #DAX - Maritime Museum - HIRTUAL.
 
+###Brainswarming
+A comprehensive view of our early brainstorming, and development process
+####https://drive.google.com/open?id=0B5xSQbbsWRhzQnh1TEstYU9jRVE
+
+###User personas
+####https://drive.google.com/open?id=0B1oDFGR8btFeLVVJMlVlYkxwQmM
+
+###Concept one-pager
+####..
+
+###Experience Map
+####https://drive.google.com/open?id=0B1oDFGR8btFeSFhsNTZfcmQtaFk
+
+###Prototypes
+####https://drive.google.com/open?id=0B1oDFGR8btFeVXhHR0tIUm9tLUE
+####https://invis.io/MQ8DS9IHV
+
+###formative
+####https://drive.google.com/open?id=1eibMmet58M8BsiXAGlbvlM2O8lqf8lqA7z3Sz1AGNFQ
+
+###summative
+####https://drive.google.com/open?id=1hNs9oGheUis2nYayP5IPH5mwNyF3f6i9hYu_kURy_NQ
+
+##blogs
+####https://drive.google.com/open?id=0B-DI-T3x3mnYWUo3TU8teEZkY28
+
 
